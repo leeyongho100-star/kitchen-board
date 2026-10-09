@@ -1,7 +1,8 @@
 {
-  "updated": "2026-10-09T12:12:56Z",
+  "updated": "2026-10-09T12:12:58Z",
   "tasks": [
     { "id": "SB", "stage": "order", "since": "2026-10-09T12:12:53Z" },
-    { "id": "MT", "stage": "review", "since": "2026-10-09T12:12:56Z" }
+    { "id": "MT", "stage": "review", "since": "2026-10-09T12:12:56Z" },
+    { "id": "PL", "stage": "check", "since": "2026-10-09T12:12:58Z" }
   ]
 }
