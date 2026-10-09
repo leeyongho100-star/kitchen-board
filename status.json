@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-09T13:06:31Z",
+  "updated": "2026-10-09T13:12:55Z",
   "tasks": [
-    { "id": "SB", "stage": "check", "since": "2026-10-09T12:57:08Z" },
+    { "id": "SB", "stage": "done", "since": "2026-10-09T13:12:55Z" },
     { "id": "MT", "stage": "check", "since": "2026-10-09T12:27:05Z" },
     { "id": "PL", "stage": "cooking", "since": "2026-10-09T13:06:31Z" },
     { "id": "MV", "stage": "done", "since": "2026-10-09T12:16:56Z" },
