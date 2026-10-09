@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-09T14:13:16Z",
+  "updated": "2026-10-09T14:53:50Z",
   "tasks": [
     { "id": "SB", "stage": "done", "since": "2026-10-09T13:12:55Z" },
     { "id": "MT", "stage": "check", "since": "2026-10-09T12:27:05Z" },
-    { "id": "PL", "stage": "check", "since": "2026-10-09T14:13:16Z" },
+    { "id": "PL", "stage": "order", "since": "2026-10-09T14:53:50Z" },
     { "id": "MV", "stage": "done", "since": "2026-10-09T12:16:56Z" },
     { "id": "TB", "stage": "done", "since": "2026-10-09T12:16:58Z" }
   ]
