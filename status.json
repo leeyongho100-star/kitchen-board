@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T18:54:30Z",
+  "updated": "2026-10-12T18:54:47Z",
   "tasks": [
     { "id": "SB", "stage": "done", "since": "2026-10-10T01:01:34Z" },
     { "id": "MT", "stage": "check", "since": "2026-10-09T12:27:05Z" },
@@ -11,6 +11,6 @@
     { "id": "KD", "stage": "check", "since": "2026-10-11T15:15:21Z" },
     { "id": "SL", "stage": "check", "since": "2026-10-12T14:34:41Z" },
     { "id": "WR", "stage": "done", "since": "2026-10-12T18:54:30Z" },
-    { "id": "TS", "stage": "check", "since": "2026-10-12T17:59:04Z" }
+    { "id": "TS", "stage": "cooking", "since": "2026-10-12T18:54:47Z" }
   ]
 }
