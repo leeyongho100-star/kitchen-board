@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:24:29Z",
+  "updated": "2026-10-27T22:58:28Z",
   "tasks": [
     { "id": "SB", "stage": "done", "since": "2026-10-10T01:01:34Z" },
     { "id": "MT", "stage": "check", "since": "2026-10-22T20:12:59Z" },
@@ -14,7 +14,7 @@
     { "id": "TS", "stage": "done", "since": "2026-10-13T14:32:31Z" },
     { "id": "DX", "stage": "check", "since": "2026-10-19T18:06:49Z" },
     { "id": "IR", "stage": "check", "since": "2026-10-18T21:25:39Z" },
-    { "id": "GU", "stage": "check", "since": "2026-10-27T22:24:29Z" },
+    { "id": "GU", "stage": "review", "since": "2026-10-27T22:58:28Z" },
     { "id": "BA", "stage": "done", "since": "2026-10-21T11:01:27Z" },
     { "id": "OR", "stage": "done", "since": "2026-10-22T01:04:57Z" },
     { "id": "PB", "stage": "check", "since": "2026-10-23T17:39:43Z" },
