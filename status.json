@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T14:56:23Z",
+  "updated": "2026-11-04T15:13:02Z",
   "tasks": [
     { "id": "SB", "stage": "done", "since": "2026-10-10T01:01:34Z" },
     { "id": "MT", "stage": "check", "since": "2026-10-22T20:12:59Z" },
@@ -20,6 +20,7 @@
     { "id": "PB", "stage": "check", "since": "2026-11-04T14:56:23Z" },
     { "id": "PK", "stage": "check", "since": "2026-10-27T14:18:00Z" },
     { "id": "MS", "stage": "review", "since": "2026-10-27T15:49:00Z" },
-    { "id": "PM", "stage": "check", "since": "2026-11-03T14:07:14Z" }
+    { "id": "PM", "stage": "check", "since": "2026-11-03T14:07:14Z" },
+    { "id": "CT", "stage": "check", "since": "2026-11-04T15:13:02Z" }
   ]
 }
